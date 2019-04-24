@@ -1,0 +1,20 @@
+/* changing color of page title*/
+h1 {
+color: purple;
+}
+/*changing widget visibility*/
+
+.widget-area {
+ 
+  background-color: transparent;
+  color: darkmagenta;
+  padding: 0px;
+}
+/* adding image for background*/
+
+body {
+	background-image: 
+		url(https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestravelguide%2Ffiles%2F2017%2F08%2FForbes-NapaSonomaWineTour-FantescaVineyard-CreditFantescaEstateWinery.jpg);
+	background-repeat: no-repeat;
+	background-size: auto;
+}
